@@ -5,7 +5,7 @@ Hi my name is Hakan Vardar
 
 *   🧠  Learning Backend Development With Rust
 *   🎓  Studying Computer Science Engineering at Acıbadem University
-*   ✉️  You can contact me at [hakovardar@gmail.com](mailto:hakovardar@gmail.com)
+*   ✉️  You can contact me on [hakovardar@gmail.com](mailto:hakovardar@gmail.com)
 *   🌍  Istanbul / Turkiye
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

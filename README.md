@@ -1,10 +1,10 @@
 Hi my name is Hakan Vardar
 ====================================================================================================================================
 
-*   🌍  I'm based in Istanbul / Turkiye
+*   🌍  Istanbul / Turkiye
 *   ✉️  You can contact me at [hakovardar@gmail.com](mailto:hakovardar@gmail.com)
-*   🧠  I'm learning Backend Development With Rust
-*   🎓  I'm studying Computer Science Engineering at Acıbadem University
+*   🧠  Learning Backend Development With Rust
+*   🎓  Studying Computer Science Engineering at Acıbadem University
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -14,8 +14,10 @@ Hi my name is Hakan Vardar
                     </p>
                     
 
-![](https://github-readme-stats.vercel.app/api?username=HakanVardarr&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HakanVardarr&theme=react&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HakanVardarr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> 
+### Badges
+
+<a href="http://www.github.com/HakanVardarr"><img src="https://github-readme-stats.vercel.app/api?username=HakanVardarr&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HakanVardarr's GitHub stats" /></a>
+
+<a href="http://www.github.com/HakanVardarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanVardarr&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

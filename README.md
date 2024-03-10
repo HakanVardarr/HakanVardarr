@@ -1,11 +1,12 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 Hi my name is Hakan Vardar
 ====================================================================================================================================
 
-*   🌍  Istanbul / Turkiye
-*   ✉️  You can contact me at [hakovardar@gmail.com](mailto:hakovardar@gmail.com)
 *   🧠  Learning Backend Development With Rust
 *   🎓  Studying Computer Science Engineering at Acıbadem University
-
+*   ✉️  You can contact me at [hakovardar@gmail.com](mailto:hakovardar@gmail.com)
+*   🌍  Istanbul / Turkiye
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Skills 

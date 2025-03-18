@@ -39,18 +39,4 @@ I'm passionate about system programming, networking, and game development. I lov
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<a href="http://www.github.com/HakanVardarr">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakanVardarr&show_icons=true&theme=tokyonight&hide_border=true" alt="HakanVardarr's GitHub Stats" />
-</a>
-
-<a href="http://www.github.com/HakanVardarr">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanVardarr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
----
-
 ![Hakan Vardar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
